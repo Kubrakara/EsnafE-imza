@@ -1,4 +1,4 @@
-# 🧾 Esnaf e-İmza Web Sitesi – Ticari Proje Teslimi
+# 🧾 Esnaf e-İmza Web Sitesi – Ticari Proje
 
 **[esnafeimza.com.tr](https://www.esnafeimza.com.tr)**, Türkiye genelindeki esnaf ve küçük işletmelere dijital imza çözümleri sunmayı amaçlayan kurumsal bir web sitesidir. Bu proje, müşteri odaklı bir yazılım geliştirme süreci kapsamında tarafımdan profesyonel olarak hayata geçirilmiş ve teslim edilmiştir.
 
